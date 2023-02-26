@@ -42,7 +42,7 @@ const Collage = () => {
                         hasMore={true}
                         loader={
                             <div className="loader-wrap">
-                                <div class="loader-5"><span></span></div>
+                                <div className="loader-5"><span></span></div>
                             </div>
                         }                    
                     >
